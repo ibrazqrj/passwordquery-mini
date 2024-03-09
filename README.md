@@ -1,7 +1,11 @@
+<!-- Heading -->
 ![image](https://github.com/ibrazqrj/passwordquery-mini/assets/153816768/0856e2b0-c7f1-491b-a1a5-3d27492b3d3e)
 
 
-📝 Personal Learning Project: Password Authentication System in Java 🛡️
+<h3 align="center" width = 200px>📝 Personal Learning Project: Password Authentication System in Java 🛡️</h3>
+
+ <!-- Desc section -->
+---
 
 Description:
 Embark on a personal learning journey with this Java project, meticulously crafted to master the art of password authentication. Designed as a self-paced endeavor, this project prompts users to input a password and grants access if it matches the predefined secret. Let's unravel the essence of this independent exploration:
